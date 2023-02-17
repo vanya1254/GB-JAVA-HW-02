@@ -11,6 +11,6 @@
 
 public class task_01 {
     public static void main(String[] args) {
-        Object obj = new JSONParser().parse(new FileReader("01.json"));
+        // Object obj = new JSONParser().parse(new FileReader("01.json"));
     }
 }
